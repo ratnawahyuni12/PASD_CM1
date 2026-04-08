@@ -8,7 +8,7 @@ public class SistemPeminjamanMain20 {
             new Mahasiswa20("22001", "Andi", "Teknik Informatika"),
             new Mahasiswa20("22002", "Budi", "Teknik Informatika"),
             new Mahasiswa20("22003", "Citra", "Sistem Informasi Bisnis")
-        };
+        }; 
 
         Buku20[] daftarBuku = {
             new Buku20("B001", "Algoritma", 2020),
