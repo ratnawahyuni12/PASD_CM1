@@ -8,14 +8,14 @@ public class SistemPeminjamanMain20 {
             new Mahasiswa20("22001", "Andi", "Teknik Informatika"),
             new Mahasiswa20("22002", "Budi", "Teknik Informatika"),
             new Mahasiswa20("22003", "Citra", "Sistem Informasi Bisnis")
-        }; 
+        };
 
         Buku20[] daftarBuku = {
             new Buku20("B001", "Algoritma", 2020),
             new Buku20("B002", "Basis Data", 2019),
             new Buku20("B003", "Pemrograman", 2021),
             new Buku20("B004", "Fisika", 2024)
-        };
+        }; 
 
         // Data Peminjaman [cite: 36]
         Peminjaman20[] pinjam = {
